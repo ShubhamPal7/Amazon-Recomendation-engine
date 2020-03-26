@@ -1,4 +1,4 @@
-# Amazon-Recomendation-engine
+# AMAZON-APPAREL-RECOMMENDATION-USING-TEXT-AND-IMAGE-SIMILARITY 
 <br>
 <br>
 In this project we are trying to recommend similar apparel items/products in e commerce using unsupervised learning, NLP and deep learning techniques.
